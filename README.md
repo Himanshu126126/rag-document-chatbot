@@ -3,7 +3,7 @@
 Ask questions about your PDFs and get grounded answers with page-level citations.
 Built with LangChain, FAISS, HuggingFace embeddings, Groq LLM and Streamlit.
 
-**Live demo:** <YOUR_STREAMLIT_LINK>
+**Live demo:** https://rag-document-chatbot-mulaaana7gyquttsad5bdd.streamlit.app
 
 ## Why I built this
 I wanted a simple way to ask questions about a PDF without reading all of it.
@@ -55,3 +55,6 @@ streamlit run app.py
 python -m pytest
 python -m eval.run_eval --pdf data/sample.pdf
 ```
+
+## Note
+The live demo runs on a free hosting plan, so the first load can be slow. If it looks stuck, wait a minute and refresh.
