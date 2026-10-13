@@ -1,0 +1,7 @@
+venv/
+.env
+data/*.pdf
+faiss_index/
+__pycache__/
+.pytest_cache/
+.DS_Store

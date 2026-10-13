@@ -1,0 +1,14 @@
+[
+  {"question": "In which city was BrightPath Technologies founded?", "keywords": ["pune"]},
+  {"question": "Who founded the company?", "keywords": ["meera", "arjun"]},
+  {"question": "How many employees work at the company?", "keywords": ["240"]},
+  {"question": "What is the name of the main product?", "keywords": ["learnloop"]},
+  {"question": "Which database does the platform use?", "keywords": ["postgresql"]},
+  {"question": "How many days of paid annual leave do employees get?", "keywords": ["24"]},
+  {"question": "On which days must employees work from the office?", "keywords": ["tuesday", "wednesday", "thursday"]},
+  {"question": "What is the notice period after confirmation?", "keywords": ["60"]},
+  {"question": "What was the revenue in FY 2025?", "keywords": ["86"]},
+  {"question": "What is the customer retention rate?", "keywords": ["91"]},
+  {"question": "How much is the yearly learning budget per employee?", "keywords": ["30,000"]},
+  {"question": "What is the referral bonus amount?", "keywords": ["25,000"]}
+]
